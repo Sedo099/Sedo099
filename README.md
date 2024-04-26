@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on data collection, cleaning, arrangement and visualization.
 - 🌱 I’m currently learning Python libraries: Pandas, NumPy, Matplotlib, TensorFlow
 - 👯 I’m looking to collaborate on various projects to learn new skills
-- 🤔 I’m looking for help with Machien Learning
+- 🤔 I’m looking for help with finding internship programmes
 - 📫 How to reach me: sedat.safetin99@gmail.com or LinkedIn: https://www.linkedin.com/in/sedat-ismail-m-sc-in-it/
 
 <!--
