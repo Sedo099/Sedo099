@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Sedat Ismail and I'm an MIT  interested in Data Science and Machine Learning.
 - 🔭 I’m currently working on data collection, cleaning, arrangement and visualization.
 - 🌱 I’m currently learning Python libraries: Pandas, NumPy, Matplotlib, TensorFlow
 - 👯 I’m looking to collaborate on various projects to learn new skills
